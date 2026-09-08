@@ -1,0 +1,41 @@
+ISSUES IDENTIFIED – DEBUG PORTFOLIO WEBSITE
+
+The starter portfolio contained structural, accessibility, styling, and functionality issues across the HTML and CSS files. I identified and corrected the following major issues:
+
+HTML ISSUES
+
+1. Missing HTML5 DOCTYPE declaration.
+2. Missing language attribute on the HTML document.
+3. Missing character encoding meta tag.
+4. Missing responsive viewport meta tag.
+5. Missing descriptive meta information.
+6. Incorrect stylesheet path.
+7. Missing consistent navigation menu.
+8. Missing semantic header structure.
+9. Missing semantic main content structure.
+10. Incorrect use of generic div elements where semantic elements were more appropriate.
+11. Missing descriptive alt text on images.
+12. About page was missing a properly structured data table.
+13. Table required proper thead, tbody, th, and td elements.
+14. Contact form inputs were missing associated labels.
+15. Contact form lacked sufficient variety of input and control types.
+16. Contact form lacked sufficient HTML5 validation attributes.
+17. Contact form structure and nesting contained errors.
+18. Projects page was missing a third project.
+
+CSS ISSUES
+
+19. Insufficient variety of CSS selectors.
+20. Navigation was not properly styled.
+21. Navigation lacked interactive hover effects.
+22. Colour contrast needed improvement for accessibility.
+23. Insufficient use of margin, padding, and border properties.
+24. Table styling was incomplete.
+25. Form styling and visual hierarchy were incomplete.
+26. Footer alignment needed correction.
+27. Responsive layout rules were missing or incomplete.
+28. CSS naming and organisation needed improvement.
+
+APPROACH
+
+I reviewed the starter HTML and CSS, corrected structural and accessibility problems, completed the missing table, form, navigation, images, and project content, and improved the CSS layout and visual design. I then tested the website using the W3C HTML and CSS validators and tested the navigation and pages on the live website.
